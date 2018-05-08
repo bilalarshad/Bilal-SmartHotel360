@@ -18,9 +18,6 @@ You can also download the mobile app connected to our public endpoints in your d
 
 * [SmartHotel360 iOS Client App](https://aka.ms/smarthotel360ios)
 
-**Note:** This document is about an iOS Swift app using **App Center**.
-Hello World
-
 
 
 
